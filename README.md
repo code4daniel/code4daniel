@@ -1,4 +1,4 @@
-# Hey, I'm Daniel (Danzmel)
+# Hey, I'm Daniel
 
 I'm a frontend developer who enjoys designing and building simple, useful interfaces. I started out with curiosity—trying to figure out how websites and apps worked—and over time, that turned into a genuine interest in UI design and web development.
 
@@ -15,7 +15,7 @@ Thanks for stopping by.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?code4daniel=code4daniel&show_icons=true&theme=radical" alt="Daniel's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=code4daniel&show_icons=true&theme=radical" alt="Daniel's GitHub stats" />
 </p>
 
 ---
@@ -23,7 +23,7 @@ Thanks for stopping by.
 ## Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com?user=Code4daniel&theme=radical&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 ---
@@ -31,7 +31,7 @@ Thanks for stopping by.
 ## Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code4daniel&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
@@ -44,6 +44,11 @@ Thanks for stopping by.
 - **Other:** GitHub, VS Code, Postman
 
 ---
+
+## Get in Touch
+- Phone: (+256) 771-344-898
+- Email: code4daniel@gmail.com
+- LinkedIn: [@code4daniel](#)
 
 _“Code like a poet. Design like an artist.”_
 

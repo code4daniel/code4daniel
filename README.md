@@ -15,7 +15,7 @@ Thanks for stopping by.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Daniel's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?code4daniel=code4daniel&show_icons=true&theme=radical" alt="Daniel's GitHub stats" />
 </p>
 
 ---
